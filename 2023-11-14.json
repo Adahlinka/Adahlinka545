@@ -1,0 +1,26 @@
+{
+  "name": "Bobby Lamb",
+  "age": 29,
+  "address": {
+    "street": "Sukci Square",
+    "city": "Zudighu",
+    "state": "VT",
+    "zip": "01524"
+  },
+  "contact": {
+    "phone": "(918) 737-3499",
+    "servicePhone": "800393771"
+  },
+  "birthday": "1969-09-08T20:09:25.930Z",
+  "ip": "74.115.72.133",
+  "foo": "bar",
+  "profile": {
+    "about": "Tirik afzup tij re kaftez jeg agocinut beh fonsu ceatni vu cuwejla so neljareh sac cino bo balem. Ap beded gofano zosfiimu vi todlu womun rinu vavle pibewo vouti zow jaruipi levagdul ewoepaage fi. Lucazu bik paw igore bu miplon upec midwep zedwi ara pelub bod weccoij ziwmeeca.",
+    "bio": "Laz pobfe la egi em rauruv suvdambof lup ted cosuhosop ullu zoddi sovdog pi ke. Ha wut ezzi vipe vol mam ca recpus bahkeno nij oja bacokuj fate. Jeuk tinjos po mu eso bivug gulo acu rusto nopa tuj tibme husonec rohmirba. Feja bo tezohoko kizvuef cidebmi hewnaner bopmuw loanu alu odpev siuso vafpaw ahonjen awimegu sucifdel ul."
+  },
+  "apiKey": "4b204b0bec15371e5b216f013601e77211b299a23a56cc2c517e3cae5649fb58",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
