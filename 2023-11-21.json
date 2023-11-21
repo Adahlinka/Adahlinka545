@@ -1,0 +1,26 @@
+{
+  "name": "Gabriel Nunez",
+  "age": 40,
+  "address": {
+    "street": "Inopa Square",
+    "city": "Zavonnu",
+    "state": "AR",
+    "zip": "60031"
+  },
+  "contact": {
+    "phone": "(667) 919-9327",
+    "servicePhone": "800673669"
+  },
+  "birthday": "1981-07-11T14:46:54.318Z",
+  "ip": "101.179.15.162",
+  "foo": "bar",
+  "profile": {
+    "about": "Bedivbah mitod ceivza imutidkoj omizi jova hizozru wicijhi hosuup nevutu kisukvaf elkit vovito lusfev abado sobo kiiz. Befagoco mohoda ja lituw vif uko fuje rusi niwdisow nodfu gop pesuhzu jufamuziz ivi lin. Sobi jos ik dovfihec vivo et ge re farje utehatzi aptecefo ifvelgon. Ju acragol pi zu hujkukel gapurzav zukerum romura vodajuf kefi dijre ro ca av sedni.",
+    "bio": "Peteh siag tefip kegi be fahfas sijeani vis zup taelo ina mabo joca te. No comijew zafuggip nuccak hosugso lig beivi eja pucnielo kif cihifso gomar hel mibanbik kaf ol tila eflel. Cupadbig pi gu obpih jailode rakozve ge eme rebwihe ha udinotes igok we."
+  },
+  "apiKey": "d809ed28c32a513154acbb3b77686b5f9371c9b4094bd8be1c28d4a1863bd99c",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
