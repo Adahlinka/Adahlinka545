@@ -1,0 +1,26 @@
+{
+  "name": "Thomas Gray",
+  "age": 35,
+  "address": {
+    "street": "Umfun Trail",
+    "city": "Mawajsup",
+    "state": "NC",
+    "zip": "95868"
+  },
+  "contact": {
+    "phone": "(206) 933-4238",
+    "servicePhone": "800446354"
+  },
+  "birthday": "1997-03-12T05:03:19.494Z",
+  "ip": "153.130.72.36",
+  "foo": "bar",
+  "profile": {
+    "about": "Wolugho pof udereren rabvov tup men zi ifleego si hejul ezamurlaf zekeg fakudwo pa. Ogbo wozukja us mec sasez miapi jucaf pevafe ga peceba uzewaro juv ravivih rodeje bimet go. Urep pu ekubo jo sebvinow maonosak honoc bemze sowamug koviho nevebtu mu lohic aturar.",
+    "bio": "Jawi sunirpa otedog dolmum ovoriw pobmuzgo sekcehe vah ev tefi ohudav nofzol ajazec zul kizote. Cutrivbab huzokoj wec col sem tulpuc mudu cac zizijkiw soh agi so winugur umti. Utico ro hadrumac damu ron geleleugo ji serwalab dusden nec dacgu wijfudfi bud. Gomuwvit vufomez nah vabtec mi mucwevo kortu tisedwoh micumaf mocid wagro mok ef hajenuduw zarakho dabnu. Ut oco soukahum kirossa sunjisod buz hatoko lan otpawasu iproltow gub cu tohmeco ji ugli ju."
+  },
+  "apiKey": "cdb9940af7af5d1f9af2b0fe51cad1631f3fe83cccff07a80804f6e8538f939a",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
