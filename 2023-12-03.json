@@ -1,0 +1,26 @@
+{
+  "name": "Johnny Wood",
+  "age": 50,
+  "address": {
+    "street": "Fowto Grove",
+    "city": "Nidacif",
+    "state": "CA",
+    "zip": "56589"
+  },
+  "contact": {
+    "phone": "(441) 727-7426",
+    "servicePhone": "800934343"
+  },
+  "birthday": "1983-09-30T15:19:20.041Z",
+  "ip": "211.137.222.80",
+  "foo": "bar",
+  "profile": {
+    "about": "Anbobok sa zopum casto wabju vomi anili teegub cunuziwa kuzbeuw kad regavtip kuog te riwam. Avesot jovhib guljogol iku jivbel tu pultimnoc fuhpalur veboziji mebawus cugbez jozib ava tabpuh ofwot. Bunnoer nuf lowcigdih pijdorvil gov wu datis dodibbiv cibahah saamabin li ga ma. Bioneci tamtukam tohho tieg rabzoz puchuvpug ih ekmehcud ja jor tohe kuvas bi bawedi feowo vozzozot.",
+    "bio": "Secathu he huv dohjefac ge hu hu zavburu bic buc ezo foksud vedwoglet wuh masoj reg ced. Pignacica fu todalu bolfucuz gu loprug bucu esu wiru fa rugo tuil um ikutiv. Icvup rojebfut on lame ijtilpu merak hepfujetu dawlum gu rucip lu ap zu sokuevi fozelu. Ben famenhi fefoci rom kis japuuwu icfer bi oltat sap maube kogiow us habhutdor wub. Rufmav vonim be ek ahozof rojiude soc nu vipaim tecragep ezu in."
+  },
+  "apiKey": "a1e310dd3b9e39498c9461e1629b3a6ee8355e22334db2b67075639e64248424",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
