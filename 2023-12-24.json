@@ -1,0 +1,26 @@
+{
+  "name": "Christian Fields",
+  "age": 31,
+  "address": {
+    "street": "Cofbe Park",
+    "city": "Cazizdev",
+    "state": "OK",
+    "zip": "21048"
+  },
+  "contact": {
+    "phone": "(314) 464-9293",
+    "servicePhone": "800688378"
+  },
+  "birthday": "1975-02-08T22:22:57.534Z",
+  "ip": "111.253.246.60",
+  "foo": "bar",
+  "profile": {
+    "about": "Gepkam jijir pu gajratfow sofper rig hovzakij zejuj luv inlaji af pulug dug. Variive if femtopjar wa je iro og eha il nar tobtalim heumo efohe oveipe lete. Gowef icciw la vofsejer cumgopkop emo dihu gur bozfefce bimwor he izle. Taad nuadfu tuij zenunma fopeggak udfo iwomis od silirfof riro adeka nejma jira fawnip tevucil vovipja vu valeh.",
+    "bio": "Ubvifag ucpew no zeweb ziwtanog fe diekewi kihwul zaf rebov ga cizsegel gutu huricali. Wico rafotmim homula jop rap no tanesguf azcab kif vu tu mo ral. Ralo ilra resjuf fa tilelso irinof ke gesikeacu of wibupi dubdo lan sufvut repusew detkac heclu. Gi goc mi kejdavjop inte puc noc sepifobe peujo zuvid hiz hiromeen poziji jo ve."
+  },
+  "apiKey": "ee0409df0deb283f9860e1cfafd6ee609c5b603b82d0b4af0838b1df1d1fc3a0",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
