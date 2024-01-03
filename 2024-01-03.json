@@ -1,0 +1,26 @@
+{
+  "name": "Dollie Lamb",
+  "age": 29,
+  "address": {
+    "street": "Loafu Lane",
+    "city": "Pidanri",
+    "state": "OR",
+    "zip": "51359"
+  },
+  "contact": {
+    "phone": "(246) 239-5689",
+    "servicePhone": "800674315"
+  },
+  "birthday": "1987-02-26T14:10:47.637Z",
+  "ip": "128.106.233.247",
+  "foo": "bar",
+  "profile": {
+    "about": "Efirejum onive kitviwu sikurtid lediod vidib ojogamif kemo itedijba ose we zudripah. Folvol ja wisij efufi cepuluf hed cupel zos bennoj duburi lubub zuva. Fok wuz he jiseejo kobvisu ukasoilu vunaw pudi etu zad cijumaves olozed. Luojbo utkap meja um te ri waaktov reah bew ofposa gahedne he.",
+    "bio": "Multogla ezcefpuf tuccunrek jimot gafejo isovu ju ekula puzwe za ogo akzil kimomga kardazig utofdej leavfuf. Ho nipizjer fikilosa sage corwobhi cim is nutfok pupi ecfoh heva co pu zeffo zaozoogi gasfir te. Medvukuk faslu nit irales gehugo van cuj tovevgud ko besaf cof ine du. Roza iplegded vigozu san mat veib lograjce gedan imi bobloji azeko kego nofpudu jahufun teojinez kagdo latelicis."
+  },
+  "apiKey": "7ba4e776a510e056001f57fcd11def3114a41fbf8f8ceea42fb424aa5c468413",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
