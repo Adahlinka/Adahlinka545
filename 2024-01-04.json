@@ -1,0 +1,26 @@
+{
+  "name": "Bryan Benson",
+  "age": 65,
+  "address": {
+    "street": "Sowis Terrace",
+    "city": "Hihanac",
+    "state": "MD",
+    "zip": "75902"
+  },
+  "contact": {
+    "phone": "(655) 327-8011",
+    "servicePhone": "800426347"
+  },
+  "birthday": "1980-08-31T00:22:05.934Z",
+  "ip": "240.140.240.241",
+  "foo": "bar",
+  "profile": {
+    "about": "Unepeba jor mam nuzeguza hubsito fiz nulef ranun aje kujo iguhod hibju pawfefuf kik fise vajemsu. Cakkar feto tapnal jetej saw pem piszud ujobuj zahzebupu hik firzu lokve jiwda. No ume libapzo pe tuf hi eg fiew hov nibmem govholfog vaccuana tevdi mawde tuwnufis gavutba.",
+    "bio": "Pop ki haurohe nifu tel sujhe esfup kowpezlo re te acraf odnaj rabdeeba gu zussiv. Erecovoc cahadge civ ce giige nu juzuik cujveh wummuz da mizmic tispoh bebtiftim vakgelu pukdopnob. Nigahej ked er ibosev odi gikgo ikalihgu sepkuf tu mazmuman toweg elu ot naj."
+  },
+  "apiKey": "0e8bf9711bbb69a5738d3cd062da3eb45840c12ce06c4261cdec1a459e1f95cc",
+  "currency": {
+    "code": "MRO",
+    "name": "Mauritania Ouguiya"
+  }
+}
