@@ -1,0 +1,26 @@
+{
+  "name": "Daniel Hansen",
+  "age": 54,
+  "address": {
+    "street": "Tophad Mill",
+    "city": "Jaltikib",
+    "state": "AL",
+    "zip": "78641"
+  },
+  "contact": {
+    "phone": "(475) 764-8901",
+    "servicePhone": "800165945"
+  },
+  "birthday": "2006-11-29T02:47:00.280Z",
+  "ip": "203.153.240.201",
+  "foo": "bar",
+  "profile": {
+    "about": "Dislomup usda pot pejjepawo mudihu awavi ifsonog lodonpil vasaj pavpo sonanki dare hano ku ge jaesu. Batbar sedodi erejas robjupfu zewevame asi ebubijri zojehe da awu te udme zihned. Som fozakaja ba vi sop ab moluried hanu lahobi bivej pebze urib haturi ca piv ke ju.",
+    "bio": "Neujwo bu goser poborvi pi hagpaode haveha gaolu mu ub ba fiahka. Wa gabara mu vultegta saptacbe bumaer wuv omge roh icozafim poruoki hewtun bahofe. Ek koz hu kafebfeh netu vog ari cikhivhe dowviwkas tomospof gebiku azeje bo vazof. Labafeki tab pad motah zezedvu jiw fu okeac hod zoakwu pil bepnab wudawi gu zuppis totetruk sa waduma."
+  },
+  "apiKey": "9dc046cea4d0eee6e3122771428de0c7c29f333277647ac4e609720349c1366b",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
