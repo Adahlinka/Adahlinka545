@@ -1,0 +1,26 @@
+{
+  "name": "Lucinda Schneider",
+  "age": 26,
+  "address": {
+    "street": "Falif Court",
+    "city": "Mefuzur",
+    "state": "WY",
+    "zip": "48908"
+  },
+  "contact": {
+    "phone": "(910) 877-9767",
+    "servicePhone": "800428888"
+  },
+  "birthday": "1998-03-13T10:48:56.419Z",
+  "ip": "232.238.252.48",
+  "foo": "bar",
+  "profile": {
+    "about": "Ne ow aguju se mawe zazez hawrikem tek oh muj li lu. Koonajim etgepuw hedu bohikpiw kem sebo as ahsiipe huzi so temidfi rairloc lofuni dufmow pu. Notpup bi gej boad si nazo dovo siddukak sohreus rew alo mej.",
+    "bio": "Puromde edonu ve tolvannu ahaju marorav ehilenpa umi optujgo fa vubwuosa dazpo. Igukiiko jip is ifohicku cisakos ame vavicih rul tisel wok osarumu ti zupin jagmidji. Kitegmuf jat rerarilih nuwrav germuzof fucudato mitab ograki fud wivetif gamud rug ikuvutu afrufhug rad."
+  },
+  "apiKey": "90ac287e724e9376073db04251b1f3898a4b52150f4a15f134d9384d01695728",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
