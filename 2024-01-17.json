@@ -1,0 +1,26 @@
+{
+  "name": "Jon Malone",
+  "age": 50,
+  "address": {
+    "street": "Tata Lane",
+    "city": "Imguar",
+    "state": "MN",
+    "zip": "50370"
+  },
+  "contact": {
+    "phone": "(761) 977-8028",
+    "servicePhone": "800483527"
+  },
+  "birthday": "1974-11-01T14:26:05.180Z",
+  "ip": "201.94.207.123",
+  "foo": "bar",
+  "profile": {
+    "about": "Fi oro lar boggo pa elufo ilzimlad ecamaknut poijuro to sadepvu if mapoara ageovo fac. Juw dewinre dahizkor ba bogho paznog lovvoba duvtages gu bozen deg fuf dopu petaog. Bola fobov suhro ded besezi sejuf hid tuuj efladet vozdunac en di salo puvif forceli. Ihi gavliun lubru ruv sugsu gekoal lamawuw ci feg itkiuwu ademaha odaomeh dodeleri jega gizsa bo ubman.",
+    "bio": "Diwat tilaj zuzorni nira buv fin ijewibi hodufhub nez kegifal wiwi gucaaji lob jod bi se. Zoc gaispah bawniih ik esle wubaor mow ufo jeciwi tameblih jivo he sehiwij. Savepe no tabhefzop bah ho regug tu pofku vopow jevok dod repat bekum. Ugo as regob gasel jemjiner jirfi uko depigjib gefo lonosaz lajolu po uz cedopi iwi odumi ow. Biume vugok lezoha goli ti wa bebesisu geglu ufazeli tez mu igiced idiergug ru upa cedudja umaminfa. Neliab tututtuz in donodele dape po pelnuwoc rap kekzawu puotihus sof fo tirava zonu. Num zire filiivi fam lu unse fu visef lahavu puc miszijar huz."
+  },
+  "apiKey": "246514823c5750176e0e6d39d9ab4270366a8a13cfbf32b48d3211252d07b1bd",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
