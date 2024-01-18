@@ -1,0 +1,26 @@
+{
+  "name": "Rosie Hale",
+  "age": 46,
+  "address": {
+    "street": "Esciz Mill",
+    "city": "Aseluisa",
+    "state": "CO",
+    "zip": "54552"
+  },
+  "contact": {
+    "phone": "(545) 918-8859",
+    "servicePhone": "800482411"
+  },
+  "birthday": "1973-01-01T02:16:59.132Z",
+  "ip": "217.55.195.249",
+  "foo": "bar",
+  "profile": {
+    "about": "Fafow dukoki na gamvoat wezzipav icboh cilvi okfi efosi esualu jegaak man doro lajlalzu vesat tige ek opiika. Vamuj wodfi po hevni iji ankiges og ruwpedtev rekholnos goblo ar gaw villu cidlezfud hepwano. Ezadu teznabdiv buguhso nidwa osrivow lum oh dadja cas borfange gef lijesic co.",
+    "bio": "Ceico lehhedni luso siek fonweco ova zoczojcaw neimekes vefa ukcuzaj logje wovsat. Vob sa hof lig obu leguktad pew di api comilu nub orfoewe jejva de. War kip guh reb pavow uvedokes enitiki ezituec zembop kazukgo ge igerumef kujes effibifa sihu ewzel."
+  },
+  "apiKey": "c963fa3ae26137007fd4a6e6cf182104749c5502304ce7aefa02cbc7b23c4b35",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
