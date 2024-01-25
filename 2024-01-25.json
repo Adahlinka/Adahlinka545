@@ -1,0 +1,26 @@
+{
+  "name": "Glen Lynch",
+  "age": 54,
+  "address": {
+    "street": "Pufe Lane",
+    "city": "Dunudci",
+    "state": "ND",
+    "zip": "43564"
+  },
+  "contact": {
+    "phone": "(411) 546-9209",
+    "servicePhone": "800795281"
+  },
+  "birthday": "1969-08-21T22:18:52.629Z",
+  "ip": "55.31.213.75",
+  "foo": "bar",
+  "profile": {
+    "about": "Fe karmijcaj litazo tezeba rodvos piktonnu merogha wati nel dosned umarijic biseheroz man isezow ode pula jujser. Pa iwi og akesa bo iw op tudo pik idahesci huisa woptabres ofta ogin koune zardegeba mopwog. Rif ve bemeke pubotu gibvog vobha daz ga husi gowaf vawmu dagto sudlut juf. Veukide hegjeh virkuhtu wohzi tihto zahso noludrug erijaw cikusji so woujitu fi je duvuv. Dullugdo gurke gi fijona lisewwu elroj gedfo jod zo hu cajri jeuleid epgimpo. Ad ro ufu bujkahidi jo ti kaogig je bomam oli sa nug cevzap.",
+    "bio": "Nij anufup jokandoz pu gos mej laop naw zan gur pupwajel zudbet le asa uva cuicafub. Detodis vet sa fekmu ke hoebijo opafur pa ol ikpijdi dowod abi tehda nulje. Miliba rumruti oposuw ilwec jiukses futos ha gagho tergas akojad ho lo rep halacugo kizak gi vin hecfe. Zurkow iwo waj pe dizzov wipkehe punizbe poon wiba uw evo cuz."
+  },
+  "apiKey": "bb9f5e463588f0d26c9fe617cad4007b8286a87637772a00dcc5a878e339ac07",
+  "currency": {
+    "code": "GEL",
+    "name": "Georgia Lari"
+  }
+}
