@@ -1,0 +1,26 @@
+{
+  "name": "Pauline Alexander",
+  "age": 33,
+  "address": {
+    "street": "Fekrej Pass",
+    "city": "Jeroce",
+    "state": "DC",
+    "zip": "00476"
+  },
+  "contact": {
+    "phone": "(272) 575-1595",
+    "servicePhone": "800169553"
+  },
+  "birthday": "1995-01-02T05:51:45.992Z",
+  "ip": "113.193.90.130",
+  "foo": "bar",
+  "profile": {
+    "about": "Wubtemki nuzuwoc vir rat nu besafu ceisikic zew na nouhven uvadicac fid. Codipejiv wufalvos ihu zej moliula fa pevgebet gugbemiz itkudeh gu wuhme top mitwu sannifip. Paevuj liw miwbeza rukbulnic pul unipek nahu suseuw wemkutup weki natha pajke je culha je unaev tozih.",
+    "bio": "Bep pohoava ote sepdute mik anoak tuz lanacwon mep mizu wadi erbud ife pe bedoc ib pil. Sul keslenaf maz kitoj pi tobmuv zubibfa temgu gu del jasejud fuk pikehu egfil. Pe gil guagulo pop ve ubumat meva vopu sakzu rufiku ma huko hu opuali decoru fu sak buuwu. Buc owo jo kobruk husabku bigitfi marirzi gi ivemuvac atevo dol cif ce cif. Hulo daci vatsuepu vu saki wehiv tetov de ihzom cof cewbugjo ce codumi nil eteir. Ruonrod dar gijawah as wimgirro wosfi tibi elrihvik upkar neriror veoh si deg gitdu. Mukuddev kocoli baad egepvic zilu ze cur vigmi nug zieca vowosve uvolahes senfoh nuguf forli ta fir zovlagdam."
+  },
+  "apiKey": "5623fe7e18d4ba00c20d4749d708c74675a0f2e1ab521ade7a77d2ba1acef62e",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
