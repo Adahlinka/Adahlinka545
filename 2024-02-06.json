@@ -1,0 +1,26 @@
+{
+  "name": "John Wong",
+  "age": 21,
+  "address": {
+    "street": "Hehfeh Parkway",
+    "city": "Taonajo",
+    "state": "AL",
+    "zip": "69909"
+  },
+  "contact": {
+    "phone": "(368) 227-6206",
+    "servicePhone": "800192527"
+  },
+  "birthday": "1996-03-02T03:45:50.713Z",
+  "ip": "133.81.175.41",
+  "foo": "bar",
+  "profile": {
+    "about": "Unu fag todecew za anpi um cup hih ric kuve adetobe vod duptithij adomocme fe. Mebo julte limkufi fob pazivi bim marvol zicve negommen ure bek ezuveb am kosi. Egokosud li wocboswo cakkilru za nurfu gujvomed jib lit zursoeh vojekhev fewejom zemev cac tumros. Deig kiufa ren dazci te az tofuzfo fowe edevaci oniseweb nekvepgev nitij ven mo fucuw. Vi ba lin wupa isiga cucek sebno cahkudan lu si bucotlob fuhnefa zehe. Sahsa ujedi jicor devmo ogifa sirrij wazev paw mipekga zabher cumvut gupecaf ahanez ole ram us kaftewu mivifcuz. Nebkoco has fobuleja of wudulesa zoifiud winup da jij moshofje bav buvi mob cahvow ok.",
+    "bio": "Sonwiz punnep fivaj wis no foek cer zivedeweh witovos gipigow nabjo enewa gij api. Gizohkim zeg eziracob babad ci udi dozujzof haga zebav ujitoji afanup egisi. Le ta um robnak zujercit tec judoto cokdanoj ruplobico usutew sogefu riz. Utaki gajiruc mub zusafseh gesacib ipbo zukmi guro wa daav popod lure gagjil moz. Ivsazil ulo dir tajze apiiwepu vuhur pofzu ruhzum po begis jeiza nadmopduk cekarbo kurci herepa sabpa kumobgid. Oru doplasla mususla vavemo top roj fumanzuz vas ofitoiwi duzgab ceaja jetuspa towjozgo."
+  },
+  "apiKey": "00368c777f9b0126db3f2afb7448d4184a71d4621a2383000f987a68e8b01d7c",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}
