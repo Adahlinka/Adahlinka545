@@ -1,0 +1,26 @@
+{
+  "name": "Lucinda Marshall",
+  "age": 47,
+  "address": {
+    "street": "Linibo Court",
+    "city": "Jimvilam",
+    "state": "NE",
+    "zip": "45998"
+  },
+  "contact": {
+    "phone": "(624) 620-1113",
+    "servicePhone": "800941392"
+  },
+  "birthday": "1978-07-20T22:13:05.357Z",
+  "ip": "241.14.154.106",
+  "foo": "bar",
+  "profile": {
+    "about": "Zolohfem daim atakori susurbaf eziki cahep waig ju ze nafic guvub gilob. Ze uwa vir vipamiz huldu coco dipnetzo letzesej ceriz po sedli zubibaz vuzegjuh satfi. Emzicgip cuku hifdul wec simteh vuhpu urfohger teohenez gowacu wacmel fec otihi pakov pajtitget ce duteco.",
+    "bio": "Cevpakma uci udhe so faf do egeupo fuw sazif zunaji fusampad bogut toduzib otaej. Bu no vansumkud ka ererek baptove soigukad cugmezom iwri sujebipoj arfinab oda vare ubnewzu co zokis gon in. Vu vedegoc uli tuntupuc bomacku dat zeszu veb bo jop al uheho."
+  },
+  "apiKey": "c00bc2ef00987f166d43b6c24a153f60488c07adf0b4e5321ce6144128ccf33e",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
