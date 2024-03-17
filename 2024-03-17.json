@@ -1,0 +1,26 @@
+{
+  "name": "Arthur Ryan",
+  "age": 55,
+  "address": {
+    "street": "Pafda Turnpike",
+    "city": "Daegcos",
+    "state": "HI",
+    "zip": "45393"
+  },
+  "contact": {
+    "phone": "(943) 345-7183",
+    "servicePhone": "800119231"
+  },
+  "birthday": "2001-06-16T03:05:34.471Z",
+  "ip": "80.75.58.243",
+  "foo": "bar",
+  "profile": {
+    "about": "Def ku sil tospemu sa kazpohwe nag puw hofcet tabobe deza cecvo tigo vuzu gemsolew. Per visakekol wafad cagockab ju vu fejo za olaew hijazpi ojowicri uzusav. Ho piotja dak bupdud tuh widca bo kovewsun wa zul ukowim jipam zelnup lipavi ri mo dueca.",
+    "bio": "Hu zimappek sad za zensobdow vun wac ham giizoca jukluz zamfo wej. Ti ugisak defal pi rifsiki idfoup ak to ahapozaw tod mi fo jujip wabe ehti toske agaap gussiwa. Fifonmoj nuvigaba orke luihik ziom uz hij gojoum vu ebese wa wafepo umopasag natak. Sasrahhub few vo wojiw bavev girujas corsove gewilub vumcem nerure fe enabe vuun dunagrub nafilzu zuat."
+  },
+  "apiKey": "6a7aa6415bfe369ddfb7f6ed521c6b02a7710b7e4a7d7e0c1433ed055ae549fa",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
