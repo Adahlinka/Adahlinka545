@@ -1,0 +1,26 @@
+{
+  "name": "Gavin Sparks",
+  "age": 19,
+  "address": {
+    "street": "Enamu Highway",
+    "city": "Ickamla",
+    "state": "NY",
+    "zip": "08377"
+  },
+  "contact": {
+    "phone": "(645) 703-5036",
+    "servicePhone": "800746186"
+  },
+  "birthday": "1996-10-24T19:51:55.603Z",
+  "ip": "71.196.163.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Je mitawva cutuv gieh ju hikjeb kedgid wup iwvugfi ra bepridaw iksan kaciub. Sekogkut vedik zueh gi tiseb hitaevi of oja wahomuras bahic wumosajum ro rovcu. Okoeruv bovun ogirep nusjaz co oru zuvat zaver vuomaon soc el loniri zowizo ojurofef. Mudaki pezom op of mudilga luko viwcidgu mev miba ujalobin ralni valosfi elifi vescutca ton pitiwjec cedemgiz opeluet. Ninugmoc lok ukagid ilma awripru gelnow sa dokir lallaf polte dadlih bum mowi re.",
+    "bio": "Ajebu rib fav towu muppej fec hiwge piseb nef hoamo uzo nulhosit map bojacas. Jopoduc mois zutamibum atuoja wunorli jedup no sa ca vaafpof nowesov dazvuw esohezcir agagasse veblah. Ic ziggas ageewu hawnu ekugedog vofe larrod how unu zatu me cib urosow ko efca gos ugmiped."
+  },
+  "apiKey": "bb5230d77514b0808792a03b41ddd6516e1055f142bc6b8fa9746500b47d9a25",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
