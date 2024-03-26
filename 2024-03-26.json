@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Freeman",
+  "age": 49,
+  "address": {
+    "street": "Lajni Mill",
+    "city": "Ezatobo",
+    "state": "NH",
+    "zip": "72346"
+  },
+  "contact": {
+    "phone": "(678) 471-4748",
+    "servicePhone": "800949163"
+  },
+  "birthday": "1983-04-30T06:26:24.485Z",
+  "ip": "84.67.220.144",
+  "foo": "bar",
+  "profile": {
+    "about": "Ovucas wisum zijbaji ic tosit id nohtuwle tawesrit abu lepo iwutorel lo sa ha wizaluf do. Iznik tuet anawfe jomirsic apevu eneros paosa ice zotpe pu tifli anjita gesowa feicueje isu ikwutije li. Go medidnek cuiza ronujo owigeso va ve fac sujo jagiril zeseb febos bevege.",
+    "bio": "Vom cawagoz hibopib igi papi besahlab jiehimi ej wo iv wi oce mekhodos mifople af. Aha hah vepub ujugcu sejja muh cicim bomoci tidcaf salweoga asawis kadpimop iwakinof ruojivaj zaza cev. Va mo ginibga pibre nim gu fekaja bop non ot kuva uco avsunwol. Ovevehe dudo gas kincum liriv owoni le zute ha kam ot detaj suuzoog he dimocu palvejlin ulivo."
+  },
+  "apiKey": "a4f1f6d89dca180a0d10a82bb6206e8f8b5add03c4aab4ff6d1eae7d13154e06",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
