@@ -1,0 +1,26 @@
+{
+  "name": "Jose Lane",
+  "age": 31,
+  "address": {
+    "street": "Dawbac Ridge",
+    "city": "Waazdac",
+    "state": "ME",
+    "zip": "75225"
+  },
+  "contact": {
+    "phone": "(570) 433-9401",
+    "servicePhone": "800619988"
+  },
+  "birthday": "1981-12-13T16:11:51.341Z",
+  "ip": "66.249.76.155",
+  "foo": "bar",
+  "profile": {
+    "about": "Gejasko domebun rahpa bopmeto iswefwa anonopin vehvoano ja rujletop mef za hek ak fuzbima ebo. Wiru ze inje icawez muhmij zekuuza ozecin ke nicicde of fo we fu. Kifamod herfaulo tudvi zaj obvo ivu coerdes ru vo kikfori wu rowademeb. Wuwjo du packokwuz emivuga ji zonjodu amviebo nob pafinte hobwa vasdumi tabvomim le.",
+    "bio": "Nukjevcev ic tosuwek zaj ga zegizpap fiv fugevnit fuc rodi jifo vacur virpefru. Ji usono diegike gowa kiw tik kusna gadi lohi ofhenu ihrefo het je. Ti vof iwowige vef ifwi lagkecok ek saf vafaha dinefa jiscofo missad uda zit."
+  },
+  "apiKey": "f7ca5abb15a8531def71f4f522fe5d32eb5b24ae702275aed5e70e3d03caeba1",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
